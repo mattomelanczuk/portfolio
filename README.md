@@ -22,7 +22,7 @@ Here are some of my notable projects:
 - **Highlights:**
   - Identified areas of revenue growth and cost optimization
   - Delivered dashboards showcasing financial trends and KPIs
-- **Link to Project:** [Financial Performance Insights](#)  
+- **Link to Project:** [Financial Performance Insights](https://github.com/mattomelanczuk/portfolio/tree/main/financial-performance-insights)  
 
 ### 2. **Healthcare Data Trends and Insights**
 - **Description:** 
