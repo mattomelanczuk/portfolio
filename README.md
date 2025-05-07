@@ -26,14 +26,18 @@ Here are some of my notable projects:
 
 ### 2. **Healthcare Data Trends and Insights**
 - **Description:** 
-  This project involved analyzing healthcare datasets to identify trends, correlations, and actionable insights. The focus was on improving patient outcomes and operational efficiency.
+  This project analyzes healthcare datasets to identify trends, correlations, and actionable insights. 
+  Cardiovascular diseases (CVDs) are the leading cause of death globally, and early detection of heart 
+  disease can save lives. This project uses machine learning to predict heart disease based on 11 key 
+  features, enabling timely medical intervention.
 - **Key Skills & Tools:** 
   - Exploratory Data Analysis (EDA)
   - Machine Learning for Predictive Analytics
-  - Data Visualization using Power BI or Python
+  - Data Visualization using Python
 - **Highlights:**
-  - Built predictive models for patient readmission rates
-  - Created interactive dashboards for hospital management
+  - Built predictive models for heart disease detection
+  - Identified key risk factors contributing to heart disease
+  - Visualized feature importances to aid in understanding risk factors
 - **Link to Project:** [Healthcare Data Trends and Insights](#)
 
 ### 3. **Pricing Strategy Analysis**
